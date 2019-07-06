@@ -2,7 +2,7 @@
 theme = "hugo-icon"
 baseURL = "https://agitated-wilson-c9a216.netlify.com/"
 languageCode = "en-AU"
-title = "My Awesome Title"
+title = "Airowin"
 
 # Metadata
 [params]
