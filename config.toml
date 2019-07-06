@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://www.example.com/"
+baseURL = "https://agitated-wilson-c9a216.netlify.com/"
 languageCode = "en-AU"
 title = "My Awesome Title"
 
