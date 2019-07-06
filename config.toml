@@ -1,0 +1,16 @@
+# Main config file for icon theme.
+theme = "hugo-icon"
+baseURL = "/"
+languageCode = "en-AU"
+title = "Airowin"
+
+# Metadata
+[params]
+  author = "Your name"
+  description = "Cool description"
+
+# Hero section (from here on is for icon theme)
+[params.hero]
+  img = "images/hero_bg.jpg"
+  title = "Airowin"
+  description = "Our mission is to improve the ability of our customers to make better decisions."
