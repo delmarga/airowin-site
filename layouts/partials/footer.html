@@ -1,0 +1,11 @@
+<div id="fh5co-footer">
+    <div class="container">
+      <div class="row">
+        {{ with .Site.Params.footer }}
+        <div class="col-md-6">
+      {{ .note | markdownify }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>

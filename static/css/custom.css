@@ -1,0 +1,13 @@
+/* Footer Update */
+#fh5co-footer {
+    padding: .5em 0;
+    background: #E8ECF1;
+    -webkit-box-shadow: inset 0px 10px 21px -15px rgba(0, 0, 0, 0.12);
+    -moz-box-shadow: inset 0px 10px 21px -15px rgba(0, 0, 0, 0.12);
+    box-shadow: inset 0px 10px 21px -15px rgba(0, 0, 0, 0.12);
+  }
+  @media screen and (max-width: 768px) {
+    #fh5co-footer {
+      padding: .5em 0;
+    }
+  }
